@@ -1,0 +1,123 @@
+
+  .progressbar {	
+    height: 20px;
+      background-color: #26c7cc;  
+    border-radius: 1px; 
+    transition: 0.4s linear;  
+    width: 575px;
+  }
+
+.container-fluid{
+    background-color: #f7f7f7;
+}
+.col-sm-6-col-md-6-col-lg-6{
+    padding: 10%;
+   
+   }
+   
+  .progress2 {
+    padding: 1px;
+    width: 570px;
+    border-radius: 2px;
+    background: rgba(209, 209, 209, 0.25);  
+    margin-bottom: 30px;
+  }
+  .progress3 {
+    padding: 1px;
+    width: 570px;
+    border-radius: 2px;
+    background: rgba(209, 209, 209, 0.25);  
+    margin-bottom: 30px;
+  }
+
+  .progress4 {
+    padding: 1px;
+    width: 570px;
+    border-radius: 2px;
+    background: rgba(209, 209, 209, 0.25);  
+    margin-bottom: 30px;
+  }
+  .progress5 {
+    padding: 1px;
+   width: 570px;;
+    border-radius: 2px;
+    background: rgba(209, 209, 209, 0.25);  
+    margin-bottom: 30px;
+  }
+  
+  .progress-bar2 {
+    height: 20px;
+    border-radius: 1px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    width: 90%; 
+    background-color: #26c7cc;  
+    animation: progressAnimation 3s;
+    
+  }
+
+
+
+  .progressbar-title {
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 15px;
+    color: hsla(0, 0%, 0%, 0.92);
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px
+  }
+  .progressbar-title span{
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 15px;
+    color: hsla(0, 0%, 0%, 0.92);
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px
+  }
+
+  .progress-bar3 {
+    height: 20px;
+    width: 450px;
+    border-radius: 1px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    width: 60%; 
+    background-color: #26c7cc;  
+    animation: progressAnimation 3s;
+    
+  }
+  .progress-bar4 {
+    height: 20px;
+    width: 450px;
+    border-radius: 1px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    width: 75%; 
+    background-color: #26c7cc;  
+    animation: progressAnimation 3s;
+    
+  }
+  .progress-bar5 {
+    height: 20px;
+    width: 450px;
+    border-radius: 1px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    width: 80%; 
+    background-color: #26c7cc;  
+    animation: progressAnimation 3s;
+    
+  }
+
+
+
+
+
+  
+
+
+ 

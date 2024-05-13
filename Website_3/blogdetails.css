@@ -1,0 +1,121 @@
+.blog-img-2 {
+    margin-bottom: 30px;
+}
+.blog-img-2 > img {
+    width: 100%;
+}
+.blog-header h1 {
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    margin: 20px 0 15px;
+}
+.story-hbtitle p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #444444;
+}
+.story-hbtitle h3 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 15px;
+}
+.meta-info {
+    margin-bottom: 50px;
+}
+
+.meta-item {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.6;
+    font-family: 'Raleway', sans-serif;
+}
+.meta-item i {
+    margin-right: 5px;
+    color: #000;
+}
+
+.fa {
+    font-size: 20px;
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.meta-info span {
+    margin-right: 20px;
+}
+
+.contact-form h3 {
+    font-size: 2.5rem;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 15px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    /* color: #444; */
+}
+.contact-form p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+}
+p {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    margin-bottom: 15px;
+}
+.contact-form label {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+}
+.contact-form textarea {
+    border: 1px solid #e8e8e8;
+    color: #afafaf;
+    font-size: 12px;
+    font-weight: 500;
+    height: 168px;
+    margin-bottom: 20px;
+    padding: 6px 15px;
+    width: 100%;
+}
+.label{
+    display: inline-block;
+}
+.contact-form input {
+    border: 1px solid #e8e8e8;
+    color: #8f8f8f;
+    font-size: 12px;
+    font-weight: 500;
+    height: 36px;
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 100%;
+}
+.contact-form button {
+    background: #26C7CC;
+    border: 1px solid #26C7CC;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    transition: .3s;
+    font-family: 'Raleway', sans-serif;
+}

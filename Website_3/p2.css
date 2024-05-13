@@ -1,0 +1,79 @@
+
+.itemactive{
+    justify-content: center;
+    text-align: center;
+
+}
+.hero img{
+    filter: brightness(0.50);
+}
+.item{
+    justify-content: center;
+    text-align: center;
+}
+
+.carousel-inner svg:hover{
+    fill: #26c7cc;
+    }
+
+.carousel-inner {
+  position: relative;
+  top: -400px;
+}
+.carousel-inner h2{
+    font-family: 'Raleway', sans-serif;;
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 28px;
+}
+.carousel-inner p{
+    font-family: 'Raleway', sans-serif;;
+    color: rgba(255, 255, 255, 0.77);
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 35px;
+}
+
+.carousel-inner button{
+    background-color: #26c7cc;
+    border: 2px solid #26c7cc;
+    border-radius: 30px;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 40px;
+    padding: 12px 45px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    font-family: 'Raleway', sans-serif;
+}
+
+.carousel-inner button:hover{
+    background-color: rgba(255, 255, 255, 0);
+    color: #26c7cc;
+    border: 2px solid #26c7cc;
+    border-radius: 30px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 40px;
+    padding: 12px 45px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    font-family: 'Raleway', sans-serif;
+}
+.carousel-inner button svg{
+    width: 15px;
+    height: 15px;
+    fill: #fff;
+margin-top: -7px;
+}
+.item-active button :hover{
+    fill: #26c7cc;
+
+}
+
+

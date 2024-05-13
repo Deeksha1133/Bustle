@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bustle</title>
+    <link rel="stylesheet" href="a.css">
+    <link rel="stylesheet" href="a2.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header class="header">
+        <a class="navbar-brand" href="#" style="float: left;">BUSTLE</a>
+        <nav class="navbar navbar-expand-sm navbar-light sticky-top" >
+        
+            <ul class="navbar-nav" style="float: right; padding: 14px 150px;" id="myTopnav">
+              <li class="nav-item dropdown">
+                <button class="dropbtn"> <a class="nav-link" href="Page1.html">HOME</a></button>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">HOME VERSION 1</a>
+                    <a  class="dropdown-item" href="#" >HOME VERSION 2</a>
+                    <a class="dropdown-item" href="#">HOME VERSION 3</a>
+                   <a class="dropdown-item" href="#">HOME VERSION 4</a>
+                  <a class="dropdown-item" href="#">HOME VERSION 5</a>
+                </div>
+              </li>
+
+              <li class="nav-item">
+                <button class="dropbtn"> <a class="active" href="Page1.html">ABOUT</a></button>
+              </li>
+              <li class="nav-item">
+                <button class="dropbtn">  <a class="nav-link" href="#">SERVICES</a></button>
+              </li>
+              <li class="nav-item">
+                <button class="dropbtn"> <a class="nav-link" href="#">TEAM</a></button>
+              </li>
+
+              <li class="nav-item dropdown">
+                <button class="dropbtn"> <a class="nav-link" href="Page1.html">PAGES</a></button>
+                <div class="dropdown-menu" >
+                   <a class="dropdown-item" href="#">TEAM COLUMN 1</a>
+                    <a class="dropdown-item" href="#" >TEAM COLUMN 2</a>
+                    <a class="dropdown-item" href="#">CONTACT 2</a>
+              </div>
+              </li>
+
+              <li class="nav-item dropdown">
+                <button class="dropbtn"> <a class="nav-link" href="Page1.html">BLOG</a></button>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="#">BLOG LEFT SIDE BAR</a>
+                  <a class="dropdown-item" href="#">BLOG RIGHT SIDE BAR</a>
+                  <a class="dropdown-item" href="#">BLOG DETAILS</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <button class="dropbtn">  <a class="nav-link" href="project.html">PROJECT</a></button>
+              </li>
+              <li class="nav-item">
+                <button class="dropbtn"> <a class="nav-link" href="#">CONTACT</a></button>
+              </li>
+              <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+            </ul>
+          </nav>
+</header>
+<script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "navbar-nav") {
+        x.className += " responsive";
+      } else {
+        x.className = "navbar-nav";
+      }
+    }
+    </script>
+
+
+<div class="breadcrumb-banner-area ">
+  <div class="container">
+    <div class="grid">
+       <div  class="g-col-6">
+      <h2>ABOUT</h2>
+    </div>
+    <div  class="g-col-6">
+      <ul style="list-style-type: none; display: flex; float: right;">
+        <li><a href="Page1.html">HOME  /</a></li>
+        <li> <a href="#">&nbsp;About<a>
+        </li>
+    </ul>
+    </div>
+  </div>
+     
+  </div>
+</div>
+<div></div>
+
+<div class="g-col-12">
+  <div class="about-text text-center">
+    <div class="c-text">
+
+      <h2>We are Bustle Theme</h2>
+
+      <p>When purchasing a product, or even hiring you for a service, 
+        your clients may want to know the people behind the screens. 
+        This is where you can introduce your team artistically. 
+        Write a nice little introduction here and add their details like the ones on this page.</p>
+
+    <a href="#" class="button">Read More</a>
+
+    </div>
+   
+  </div>
+</div>
+
+
+</body>
+</html>
+

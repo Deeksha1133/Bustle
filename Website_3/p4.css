@@ -1,0 +1,138 @@
+.j h4{
+    color: #444444;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 18px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.j h5{
+    color: #444;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.j p{
+    color: rgba(86, 86, 86, 0.8);
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+}
+.j{
+    justify-content: center;
+    align-items: center;
+}
+
+.ja{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.jb{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.jc{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ja img{
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.ja {
+    width: 375px;
+    height: 704px;
+    background: rgb(255, 255, 255);
+transition: 0.3s;
+display: flex;
+justify-content: center;
+}
+.ja:hover{
+    transform: scale(1.02);
+    z-index: 1;
+    box-shadow: 3px 1px 5px 1px #d4d4d4;
+
+    
+}
+.jb {
+    width: 375px;
+    height: 704px;
+    background: rgb(255, 255, 255);
+transition: 0.3s;
+display: flex;
+justify-content: center;
+}
+.jb:hover{
+    transform: scale(1.02);
+    z-index: 1;
+    box-shadow: 3px 1px 5px 1px #d4d4d4;
+}
+
+.jc {
+    width: 375px;
+    height: 704px;
+    background: rgb(255, 255, 255);
+transition: 0.3s;
+display: flex;
+justify-content: center;
+}
+.jc:hover{
+    transform: scale(1.02);
+    z-index: 1;
+    box-shadow: 3px 1px 5px 1px #d4d4d4;
+    
+}
+
+.j svg {
+  width: 42px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: #eeee;
+    border-radius: 50%;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 24px;
+    margin-left: 5px;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    padding: 10px;
+position: relative;
+left: 100px;
+  }
+.jaa  :hover {
+    fill: #ffffff;
+  }
+  .jaa  :hover {
+    fill: #ffffff;
+    border: solid 1px #26c7cc;
+    background-color: #26c7cc;
+
+  }
+  .jab  :hover {
+    fill: #ffffff;
+  }
+  .jab  :hover {
+    fill: #ffffff;
+    border: solid 1px #26c7cc;
+    background-color: #26c7cc;
+  }
+  .jac  :hover {
+    fill: #ffffff;
+  }
+  .jac  :hover {
+    fill: #ffffff;
+    border: solid 1px #26c7cc;
+    background-color: #26c7cc;
+  }
+

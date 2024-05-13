@@ -1,0 +1,216 @@
+.breadcrumb-banner-area {
+    background-color: #ededed;
+    text-decoration-line: none;
+    pointer-events: none style;
+    padding: 100px 0px;
+    
+}
+
+.breadcrumb{
+    background-color: #ededed;
+    float: right;
+    margin-right: 150px;
+}
+
+
+.g-col-3 h2{
+    color: #333;
+    float: left;
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #333;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+.breadcrumb-banner-area h2{
+    margin-top: -25px;
+}
+
+
+.breadcrumb {
+    background-color:#ededed00!important;
+    color: #555;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+letter-spacing: 1px;
+}
+
+.breadcrumb li a:hover{
+   color: #26c7cc; 
+   text-decoration: none;
+}
+.breadcrumb-item a{
+    color: #555;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+letter-spacing: 1px;
+}
+
+@media screen and (max-width: 768px) {
+    .breadcrumb-banner-area {
+      margin-top: -25px;
+    }
+  }
+
+  .ga h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+
+}
+.ga p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+}
+
+.gb h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+
+}
+.gb p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+}
+
+.gc h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+
+}
+.gc p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+}
+
+.gd h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+
+}
+.gd p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.ha h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+    text-align: left;
+}
+.ha p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+    justify-content: center;
+    text-align: left;
+    width: 375px;
+}
+
+.hb h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+    text-align: left;
+}
+.hb p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+    justify-content: center;
+    text-align: left;
+    width: 375px;
+}
+
+.hc h4{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;;
+    justify-content: center;
+    text-align: left;
+}
+.hc p{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+    justify-content: center;
+    text-align: left;
+    width: 375px;
+}
+
+
+
+
+
+
+

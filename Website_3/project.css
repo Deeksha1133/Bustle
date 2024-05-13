@@ -1,0 +1,84 @@
+
+.pb-60 {
+    padding-bottom: 60px;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+.gray-bg {
+    background: #fafafa !important;
+}
+.mb-40 {
+    margin-bottom: 40px;
+}
+.Recent-Works-img img {
+    outline: medium none;
+    color: #686868;
+}
+.section-title {
+    margin-bottom: 75px;
+}
+.section-title h2 {
+    color: #444444;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 9px;
+    text-transform: capitalize;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 15px;
+    color: #444;
+}
+.section-title p {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #444444;
+    margin-bottom: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.Recent-Works-img a img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.Recent-Works-text h4 {
+    color: #444444;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 13px;
+    margin-top: 16px;
+    text-transform: capitalize;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 15px;
+    color: #444;
+}
+.Recent-Works-text p {
+    color: #999999;
+    font-size: 14px;
+    margin-bottom: 0;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.team-icon a {
+    background-color: #eeeeee;
+    border: 0 hidden #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 5px 24px;
+    width: 40px;
+    outline: medium none;
+    color: #686868;
+}
+.team-icon-wrapper{
+    height: 50px;
+}
+
+.team-icon a:hover .team-icon a + i{
+color: #ffffff ;
+background-color: #ffffff00;
+}

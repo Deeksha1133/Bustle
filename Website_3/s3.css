@@ -1,0 +1,82 @@
+
+.bg-opacity::before {
+    background: #000000 none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .counter-area-pt-100 bg-opacity-1 pb-70{
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .bg-opacity-1{position:relative;}
+  .bg-opacity-1::before {
+    background: #f3f3f3 none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .bg-opacity-2{position:relative;}
+  .bg-opacity-2::before {
+    background: #000000 none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    opacity:.8;
+  }
+
+
+.i2 {
+    justify-content: center;
+    align-items: center;
+padding-top: 100px;
+}
+
+.bg-opacity-1 {
+    position: relative;
+}
+
+.i1{
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.i2 svg{
+    width: 50px;
+
+    margin: 0px 25px 0px 25px; 
+}
+
+
+.i2 span{
+    font-family: 'Raleway', sans-serif;
+    color: #3d3d3d;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.i2 h3{
+    color: #39434a;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.ib svg{
+    height: 50px;
+}
+
